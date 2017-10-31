@@ -11,9 +11,9 @@
  *
  * Code output is:
  *
-string(28) "Singleton: Mr Base Singleton"
-string(26) "First: Mrs First Singleton"
-string(27) "Second: Dr Second Singleton"
+ * string(28) "Singleton: Mr Base Singleton"
+ * string(26) "First: Mrs First Singleton"
+ * string(27) "Second: Dr Second Singleton"
  *
  */
 

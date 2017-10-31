@@ -11,9 +11,9 @@
  *
  * Code output is:
  *
-string(28) "Singleton: Mr Base Singleton"
-string(28) "Singleton: Mr Base Singleton"
-string(28) "Singleton: Mr Base Singleton"
+ * string(28) "Singleton: Mr Base Singleton"
+ * string(28) "Singleton: Mr Base Singleton"
+ * string(28) "Singleton: Mr Base Singleton"
  *
  *
  * The issue is not related to late static binding. It's due to a limitation in the default design resulting in calls to

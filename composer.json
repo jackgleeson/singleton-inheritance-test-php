@@ -1,0 +1,12 @@
+{
+    "name": "jackgleson/php5-singleton-inheritance-test",
+    "description": "A implementation test in PHP to try use singleton inheritance",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jack Gleeson",
+            "email": "me@jackgleeson.co.uk"
+        }
+    ],
+    "require": {}
+}

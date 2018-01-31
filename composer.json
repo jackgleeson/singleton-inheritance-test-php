@@ -1,6 +1,6 @@
 {
     "name": "jackgleson/php5-singleton-inheritance-test",
-    "description": "A implementation test in PHP to try use singleton inheritance",
+    "description": "Testing out Singleton Inheritance in PHP",
     "type": "project",
     "authors": [
         {

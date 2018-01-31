@@ -1,4 +1,4 @@
-# Testing out Singleton Inheritance in PHP
+# Testing out Singleton Inheritance in PHP (it doesn't work)
 
 
 This is a small test to see how a typical PHP Singleton implementation handles inheritance
